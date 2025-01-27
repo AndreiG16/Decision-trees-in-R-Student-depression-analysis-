@@ -1,2 +1,3 @@
 # Decision-trees-in-R-Student-depression-analysis-
-The code builds and evaluates a decision tree model to predict depression based on factors like gender, age, and lifestyle. It visualizes the tree, assesses accuracy with a confusion matrix, and evaluates performance using ROC and AUC.
+
+The goal of this code is to develop and evaluate a classification decision tree model for predicting depression based on various factors such as gender, age, academic pressure, and lifestyle habits. It trains the model using the rpart package, visualizes the tree structure, and evaluates performance using a confusion matrix to assess accuracy and a ROC curve with AUC to measure its ability to distinguish between depressed and non-depressed individuals. This provides insights into the key predictors of depression and the model’s effectiveness.
